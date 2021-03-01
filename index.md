@@ -1,6 +1,29 @@
 # Titulo brutal
 ## Subtitulo genial
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+### Tengo que hacer
+1. Primero
+    - Playas Jquery
+2. Segundo
+    - Git
+3. Tercero 
+    - Proyecto final laravel
+
+> Los trabajos son como las patatas fritas 
+-- Adán
+
+### Un poco de código
+~~~
+<h1>Un título<h1>
+<p>Parrafo super difícil de programar</p>
+~~~
+
+![Typical spanish bocadillo de chorizo](bocata.jpeg)
+
+[Youtube][Vamos a youtube]
+
+[Vamos a youtube]: https://youtu.be/dQw4w9WgXcQ
+
+<!-- [Mi otra página][Pagina 2]
+
+[Pagina 2]: https://a19adancc.github.io/ -->
