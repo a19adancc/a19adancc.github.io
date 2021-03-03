@@ -28,4 +28,4 @@
 
 [Mi otra página][Pagina 2]
 
-[Pagina 2]: "referencias.md"
+[Pagina 2]: (referencias.md)
