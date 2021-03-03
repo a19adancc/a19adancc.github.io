@@ -26,6 +26,4 @@
 
 [Vamos a youtube]: https://youtu.be/dQw4w9WgXcQ
 
-[Mi otra página][Pagina 2]
-
-[Pagina 2]: (referencias.md)
+[Mi otra Página](referencias.md)
