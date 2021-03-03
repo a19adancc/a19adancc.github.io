@@ -26,6 +26,6 @@
 
 [Vamos a youtube]: https://youtu.be/dQw4w9WgXcQ
 
-<!-- [Mi otra página][Pagina 2]
+[Mi otra página][Pagina 2]
 
-[Pagina 2]: https://a19adancc.github.io/ -->
+[Pagina 2]: "referencias.md"
